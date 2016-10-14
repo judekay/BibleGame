@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="logo_color">#ffffff0f</color>
+    <color name="version_color">#ffad705c</color>
+    <color name="title_color">#fff0f0f0</color>
+    <color name="title_glow">#ffff0000</color>
+    <color name="menu_color">#ffffff0f</color>
+    <color name="menu_glow">#ffff0000</color>
+    <color name="link_color">#ffff0000</color>
+    <color name="question_color">#ffffffff</color>
+</resources>
